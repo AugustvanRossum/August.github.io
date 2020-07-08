@@ -1,0 +1,247 @@
+#pageOne body
+{
+	background-color: white;
+	background-size:100%;
+	text-align: center;
+    font-family: sans-serif;
+}
+#pageOne header
+{
+    background-color:#2f3136;
+	background-size: 100%;
+    text-align: center;
+}
+#pageOne ol
+{
+    padding:10px;
+}
+#pageOne h1
+{
+	font-size: 60px;
+    color: white;
+	margin-bottom: 0px;
+}
+#pageOne h2
+{
+	color: white;
+	font-size: 40px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+#pageOne p
+{
+	color: #515A5A;
+	font-size: 30px;
+	margin-bottom: 20px;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+#pageOne li
+{
+    display: inline;
+}
+#pageOne a
+{
+	color:white;
+	font-size:30px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#pageOne img
+{
+    padding-left: 20px;
+	padding-right: 20px;
+}
+
+#pageTwo body 
+{
+    background-image: url("fancycrave-211542-unsplash.jpg");
+    background-size:cover;
+    text-align: center;
+    font-family: sans-serif;
+}       
+#pageTwo h1
+{
+    font-size: 60px;
+}
+#pageTwo p
+{
+    font-size: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+#pageTwo img
+{
+    padding-bottom:10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#pageTwo a
+{
+    color:black;
+}
+#pageTwo
+{
+    text-align: center;
+}
+
+#pageThree body
+{
+    background-image: url("fancycrave-211542-unsplash.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+}
+#pageThree h1
+{
+    font-size: 60px;
+}
+#pageThree p
+{
+    font-size: 30px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#pageThree img 
+{
+	padding-bottom:10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#firstPic
+{
+    margin-left: 160px;
+}
+#pageThree a
+{
+	color:black;
+}
+#pageThree *
+{
+    text-align: center;
+}
+
+#pageFour body
+{
+	background-image: url("fancycrave-211542-unsplash.jpg");
+	background-size:cover;
+	text-align: center;
+	font-family: sans-serif;
+}
+#pageFour h1
+{
+	font-size: 60px;
+}
+#pageFour h2
+{
+	font-size: 40px;
+	text-align: left;
+}
+#pageFour p
+{	
+    font-size: 30px;
+	padding-left: 200px;
+    padding-right: 200px;
+}
+#pageFour img
+{
+    padding-bottom:10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#pageFour a
+{
+    color:black;
+}
+#pageFour li
+{
+	text-align: left;
+	font-size: 30px;
+}
+#pageFour *
+{
+    text-align: center;
+}
+
+#pageFive body 
+{
+	font-family: sans-serif;
+}
+#pageFive *
+{
+    text-align: center;
+}
+#pageFive h1
+{
+	font-size: 60px;
+}
+#pageFive h2
+{
+	text-align: left;
+	font-size: 40px;
+}		
+#pageFive p
+{
+	font-size: 30px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#pageFive img 
+{
+	padding-bottom:10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#pageFive li
+{
+	text-align: left;
+}
+#pageFive a
+{
+	color: black;
+    font-size: 30px;
+}
+
+#pageSix body
+{
+    background-image: url("fancycrave-211542-unsplash.jpg");
+    background-size:cover;
+    text-align: center;
+    font-family: sans-serif;
+}
+#pageSix h1
+{
+	font-size: 60px;
+}
+#pageSix h2
+{
+	font-size: 40px;
+	text-align: left;
+}
+#pageSix p
+{
+	font-size: 30px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#pageSix img
+{
+	padding-bottom:10px;
+	padding-right: 10px;
+    padding-left: 10px;
+}
+#pageSix a
+{
+    color:black;
+    font-size: 30px;
+}
+#pageSix li
+{
+	text-align: left;
+}
+#pageSix
+{
+    text-align: center;
+}
